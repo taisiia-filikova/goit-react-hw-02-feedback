@@ -6,9 +6,6 @@
   --bgColor: #d8bfd8;
   --darkVioletColor: #391d35;
   --violetColor: #613d5c;
-  --pinkColor: #ffc1b6;
-  --blueColor: #82d2ff;
-  --yellowColor: #f9f9c0;
   --shadow-dark: gray 1px 1px 10px, gray -1px -1px 10px, gray -1px 1px 10px,
     gray 1px -1px 10px;
   --transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
